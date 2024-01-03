@@ -1,5 +1,15 @@
 # bookmark
 网址收藏
 
-[CSDN](https://www.csdn.net)
 <https://bbs.wcccc.cc/>
+<https://www.soushu2023.com/sou/go.html>
+<https://legado.cn/>
+<https://glados.rocks/console/checkin>
+<https://tejiajichang.com/>
+<https://cloud.huawei.com/home#/home>
+<https://www.iios.fun/#/me>
+<https://xiageba.com/>
+<https://www.iiice.cn/#/>
+<https://www.jianguoyun.com/#/>
+<http://www.teyonds.com/>
+<https://regex-vis.com/>
