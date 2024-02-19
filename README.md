@@ -32,4 +32,10 @@
 
 [阅读论坛](https://legado.cn/)
 
+[搜书吧](https://www.soushu2023.com/sou/go.html)
+
 [月曦论坛](https://bbs.wcccc.cc/)
+
+[分享](https://jubt.fun/cn/)
+
+[养鸡场](https://xfltd.cc/)
