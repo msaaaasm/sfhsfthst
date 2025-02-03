@@ -12,17 +12,15 @@
 
 [坚果云](https://www.jianguoyun.com/#/)
 
-[南审图书馆](https://lib.nau.edu.cn/zywxw/list.htm?keyword=?keyword=zy1)
-
 [下次一定](https://www.iiice.cn/#/)
 
-[小米云服务](https://i.mi.com/)
+[小米云](https://i.mi.com/)
 
 [苹果软件站](https://www.iios.fun/#/me)
 
 [XFLTD](https://xfltd.cc/)
 
-[kimiAI](https://kimi.moonshot.cn/)
+[kimi](https://kimi.moonshot.cn/)
 
 [gitee](https://gitee.com/)
 
