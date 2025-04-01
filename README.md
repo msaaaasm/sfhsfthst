@@ -14,6 +14,8 @@
 
 [坚果云](https://www.jianguoyun.com/#/)
 
+[tera云](https://jike.teracloud.jp/browser/)
+
 [下次一定](https://www.iiice.cn/#/)
 
 [小米云](https://i.mi.com/)
